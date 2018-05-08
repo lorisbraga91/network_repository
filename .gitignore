@@ -1,0 +1,8 @@
+#Ignora la cartella bin (tutti i file in essa contenuti)
+bin/
+
+#Ignora tutti gli exe
+*.exe
+
+#Ignora il file inutile.js
+inutile.js
